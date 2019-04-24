@@ -1,0 +1,111 @@
+{
+    "members": [{
+        "firstName": "Claire",
+        "lastName": "Chevron",
+        "description": "Agée de 23 ans, Claire est la plus jeune des Soupe’rman. Fille d’un chef cuisinier, elle a appris la cuisine dès son plus jeune âge, en aidant son père. Elle a rejoint les Souper’man dans leur restaurant La Spatule lors d’un stage nécessaire à l’obtention de son BTS hôtellerie et a été engagée dans la foulée par l’équipe qui a su apprécier son potentiel et sa personnalité.",
+        "image": {
+            "srcset": [
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_200.jpg 200w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_398.jpg 398w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_549.jpg 549w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_683.jpg 683w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_784.jpg 784w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_898.jpg 898w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_997.jpg 997w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1087.jpg 1087w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1167.jpg 1167w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1245.jpg 1245w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1326.jpg 1326w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1396.jpg 1396w,",
+                "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1400.jpg 1400w"
+            ],
+            "src": "http://souperman-assets.victormendele.fr/claire/Claire_Chevron_23_ans_pj7kin_c_scale,w_1400.jpg",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+        },
+        "next": "Charline"
+    }, {
+        "firstName": "Charline",
+        "lastName": "Meyer",
+        "description": "Agée de 25 ans, Charline est une des fondatrices du restaurant La Spatule. Après avoir arrêté ses études de droit, elle a enchaîné les petits boulots afin d’économiser et réaliser son rêve : partir en voyage au Japon accompagnée de ses amis Julien et Théo. Autodidacte et très gourmande, elle a apprit la cuisine seule.",
+        "image": {
+            "srcset": [
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_200.jpg 200w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_332.jpg 332w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_439.jpg 439w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_531.jpg 531w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_614.jpg 614w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_690.jpg 690w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_766.jpg 766w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_832.jpg 832w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_897.jpg 897w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_964.jpg 964w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1020.jpg 1020w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1081.jpg 1081w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1130.jpg 1130w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1187.jpg 1187w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1237.jpg 1237w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1287.jpg 1287w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1339.jpg 1339w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1385.jpg 1385w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1394.jpg 1394w,",
+                "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1400.jpg 1400w"
+            ],
+            "src": "http://souperman-assets.victormendele.fr/charline/Charline_Meyer_25_ans_hrikaa_c_scale,w_1400.jpg",
+            "sizes": "(max-width: 1400px) 100vw, 1400px"
+        },
+        "next": "Julien"
+    }, {
+        "firstName": "Julien",
+        "lastName": "Mosby",
+        "description": "Agé de 26 ans, Julien est un des fondateurs du restaurant La Spatule. Fils de bibliothécaire, il a rencontré Charline et Théo dans la librairie de sa mère, les 3 ayant pour habitude de fréquenter le rayon manga. Doté d’un excellent esprit de leader, c’est lui qui a généralement le dernier mot lors des décisions de la troupe et du restaurant.",
+        "image": {
+            "srcset": [
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_200.jpg 200w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_356.jpg 356w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_477.jpg 477w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_586.jpg 586w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_678.jpg 678w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_760.jpg 760w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_830.jpg 830w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_899.jpg 899w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_962.jpg 962w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1029.jpg 1029w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1083.jpg 1083w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1137.jpg 1137w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1187.jpg 1187w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1239.jpg 1239w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1289.jpg 1289w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1336.jpg 1336w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1377.jpg 1377w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1399.jpg 1399w,",
+                "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1400.jpg 1400w"
+            ],
+            "sizes": "(max-width: 1400px) 100vw, 1400px",
+            "src": "http://souperman-assets.victormendele.fr/julien/Julien_Mosby_26_ans_s2xisz_c_scale,w_1400.jpg"
+        },
+        "next": "Théo"
+    }, {
+        "firstName": "Théo",
+        "lastName": "Ly",
+        "description": "Agé de 28 ans, Théo est le doyen des Soupe’rman et l’un des fondateurs du restaurant La Spatule. Son père tient un restaurant de sushi “authentiques” au centre de Lyon et lui transmet ses compétences en cuisine. Durant ses cours de cuisine, son père prend l’habitude de faire jongler couteaux et baguettes pour l’amuser, habitude qui finit par déteindre sur Théo.",
+        "image": {
+            "srcset": [
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_200.jpg 200w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_408.jpg 408w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_564.jpg 564w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_714.jpg 714w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_839.jpg 839w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_954.jpg 954w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1063.jpg 1063w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1166.jpg 1166w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1263.jpg 1263w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1344.jpg 1344w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1390.jpg 1390w,",
+                "http://souperman-assets.victormendele.fr/theo/Th%C3%A9o_Ly_28_ans_pvjbsh_c_scale,w_1400.jpg 1400w"
+            ],
+            "sizes": "(max-width: 1400px) 100vw, 1400px",
+            "src": "http://souperman-assets.victormendele.fr/theo/Charline_Meyer_25_ans_hrikaa_c_scale,w_1400.jpg"
+        },
+        "next": "Claire"
+    }]
+}
